@@ -1,3 +1,5 @@
+
+![animation](https://github.com/user-attachments/assets/de211b1b-a508-43b8-9b61-aa42bdd5864f)
 # 💫 About Me:
 Rishabh Nandan<br>👨‍💻 Data Science Enthusiast | Software Developer | Problem Solver<br><br>Hi! I'm Rishabh, a student at the University of Allahabad, pursuing a dual degree in BCA+MCA with a specialization in Data Science. 
 Batch 2023-24
