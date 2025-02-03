@@ -3,8 +3,12 @@
 
 
 # 💫 About Me:
-Rishabh Nandan<br>👨‍💻 Data Science Enthusiast | Software Developer | Problem Solver<br><br>Hi! I'm Rishabh, a University of Allahabad student pursuing a dual degree in BCA+MCA with a specialization in Data Science. 
-Batch 2023-24
+Rishabh Nandan<br>👨‍💻 Data Science Enthusiast | Software Developer | Problem Solver<br><br>Hi! I'm Rishabh, a University of Allahabad student pursuing a dual degree in BCA+MCA specialising in Data Science. Batch 2023-24. I love exploring new technologies, working on projects, and improving my leadership skills. Open to collaborations and always eager to learn!
+
+📫 Reach me at: rishabhnandan789@gmail.com
+
+
+
 
 
 ![212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52](https://github.com/user-attachments/assets/95d49a3b-3615-400e-a299-329a7e30bd2d)
