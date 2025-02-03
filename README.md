@@ -3,9 +3,9 @@
 
 
 # 💫 About Me:
-Rishabh Nandan<br>👨‍💻 Data Science Enthusiast | Software Developer | Problem Solver<br><br>Hi! I'm Rishabh, a student at the University of Allahabad, pursuing a dual degree in BCA+MCA with a specialization in Data Science. 
+Rishabh Nandan<br>👨‍💻 Data Science Enthusiast | Software Developer | Problem Solver<br><br>Hi! I'm Rishabh, a University of Allahabad student pursuing a dual degree in BCA+MCA with a specialization in Data Science. 
 Batch 2023-24
-I’m passionate about leveraging data-driven insights and developing efficient software solutions to solve real-world problems.<br><br>🚀 What I Do<br>🌐 Build innovative web applications and software.<br>📊 Analyze and visualize complex datasets for meaningful insights.<br>🧠 Work with machine learning and AI models to create intelligent systems.<br>🛠️ Tech Stack<br>Programming Languages: Python, Java, SQL, C. HTML,CSS JavaScript<br>Frameworks & Libraries: TensorFlow, NumPy, Pandas, React, Node.js.<br>Tools: Jupyter Notebook, Git, Docker, VS Code, Power BI.<br>Databases: MySQL, MongoDB, SQLite.<br>🌟 My Goals<br>Contribute to open-source projects that make an impact.<br>Collaborate with other developers to enhance my skills and knowledge.<br>Stay curious and keep learning about emerging technologies.<br>Let’s connect and create something amazing together! 🚀<br>📫 Email: rishabhnandan789@gmail.com
+
 
 ![212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52](https://github.com/user-attachments/assets/95d49a3b-3615-400e-a299-329a7e30bd2d)
 
