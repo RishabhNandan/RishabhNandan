@@ -1,9 +1,8 @@
 ![wcm](https://github.com/user-attachments/assets/38e905d8-05ea-458b-bf8b-1d0ae550d1df)
 ![212284158-e840e285-664b-44d7-b79b-e264b5e54825](https://github.com/user-attachments/assets/9c6b0759-5b74-4b4f-a80e-29feb111f1e6)
 
-
-# 💫 About Me:
-Rishabh Nandan<br>👨‍💻 Data Science Enthusiast | Software Developer | Problem Solver<br><br>Hi! I'm Rishabh, a University of Allahabad student pursuing a dual degree in BCA+MCA specialising in Data Science. Batch 2023-24. I love exploring new technologies, working on projects, and improving my leadership skills. Open to collaborations and always eager to learn!
+   # I'm Rishabh✌️
+ Data Science Enthusiast | Software Developer | Problem Solver<br><br>A University of Allahabad student pursuing a dual degree in BCA+MCA specialising in Data Science. Batch 2023-24. I love exploring new technologies, working on projects, and improving my leadership skills. Open to collaborations and always eager to learn!
 
 📫 Reach me at: rishabhnandan789@gmail.com
 
