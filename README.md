@@ -74,7 +74,6 @@
   />
 </picture>
 
-![graph](https://github.com/user-attachments/assets/3da02229-2d7a-4eb5-8e5e-56b69d533450)
 
 
 
