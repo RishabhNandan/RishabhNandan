@@ -1,9 +1,10 @@
+<div align="center">
+<img src= "https://github.com/user-attachments/assets/1c6e3ea0-c9a6-405e-9113-42dffce5f6b0"
+width="400px" />  
+</div>
+<h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rishabh Nandan</h1>
 
-![lo](https://github.com/user-attachments/assets/8f8c8220-a8b0-4e64-bebe-fc1ee1b95543)
-
-![212284158-e840e285-664b-44d7-b79b-e264b5e54825](https://github.com/user-attachments/assets/9c6b0759-5b74-4b4f-a80e-29feb111f1e6)
-
-   ## ✌️I'm Rishabh✌️
+  
  Data Science Enthusiast | Software Developer | Problem Solver<br><br>A University of Allahabad student pursuing a dual degree in BCA+MCA specialising in Data Science. Batch 2023-24. I love exploring new technologies, working on projects, and improving my leadership skills. Open to collaborations and always eager to learn!
 
 📫 Reach me at: rishabhnandan789@gmail.com
