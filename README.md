@@ -8,13 +8,10 @@ width="400px" />
  Data Science Enthusiast | Software Developer | Problem Solver<br><br>A University of Allahabad student pursuing a dual degree in BCA+MCA specialising in Data Science. Batch 2023-24. I love exploring new technologies, working on projects, and improving my leadership skills. Open to collaborations and always eager to learn!
 
 📫 Reach me at: rishabhnandan789@gmail.com
-
-
-
-
-
-![212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52](https://github.com/user-attachments/assets/95d49a3b-3615-400e-a299-329a7e30bd2d)
-
+<div align="center">
+<img src= "https://github.com/user-attachments/assets/95d49a3b-3615-400e-a299-329a7e30bd2d"
+width="400px" />  
+</div>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/bQpgD3cD) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/__.rishabh_nandan_?igsh=MnMwcWRjeGxoYXI3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rishabh-n-0bb10b27a/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/rishabh_nandan_) 
@@ -47,12 +44,18 @@ width="400px" />
  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) 
  ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) 
  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
+ <div align="center">
+<img src= "https://github.com/user-attachments/assets/5e2baecb-a4f8-4476-86e8-58c22c075aaf"
+width="200px" /> 
 
-![programing](https://github.com/user-attachments/assets/5e2baecb-a4f8-4476-86e8-58c22c075aaf)
+
+
 
 
 # ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+</div>
+
 # GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RishabhNandan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RishabhNandan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
