@@ -2,7 +2,7 @@
 <img src= "https://github.com/user-attachments/assets/1c6e3ea0-c9a6-405e-9113-42dffce5f6b0"        
 width="300px" />  
 </div>
-<h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rishabh Nandan</h1>
+<h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">, I'm Rishabh Nandan</h1>
 
   
  Data Science Enthusiast | Software Developer | Problem Solver<br><br>A University of Allahabad student pursuing a dual degree in BCA+MCA specialising in Data Science. Batch 2023-24. I love exploring new technologies, working on projects, and improving my leadership skills. Open to collaborations and always eager to learn!
